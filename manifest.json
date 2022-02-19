@@ -1,0 +1,13 @@
+{
+  "name": "Custom Global CSS",
+  "version": "0.0.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.google.com/search*"
+      ],
+      "css": ["./style.css"]
+    }
+  ],
+  "manifest_version": 3
+}
