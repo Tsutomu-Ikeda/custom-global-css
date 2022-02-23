@@ -20,7 +20,8 @@
 }
 
 a h3 {
-  color: #71b9e9 !important;
+  color: #bdbdbd !important;
+  font-weight: 900;
 }
 
 a:visited h3 {
