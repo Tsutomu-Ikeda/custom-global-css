@@ -27,3 +27,7 @@ a h3 {
 a:visited h3 {
   color: #8b8b8b !important;
 }
+
+.ytd-comments, #comment-teaser {
+  visibility: hidden;
+}
